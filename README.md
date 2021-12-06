@@ -14,7 +14,6 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML, and CSS.
 - As a user I want to place my token so that I can interact with the game.
 - As a user, I want the game to reach a win state so that I know who won and can play again and have the board reset for me.
 
-
 #### Bronze
 
 - As a user, I want player that goes first to be randomly determined.
@@ -29,14 +28,13 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML, and CSS.
 - As a user, I want there to be a rankings leaderboard.
 - As a user, I want there to be different difficulty levels from the AI.
 
-
 #### Gold
 
 - As a user, I want to be able to upload my own image as my token so that I can customize the game.
 - As a user, I want cosmetic options for different styles of board.
-
-
-#### Platinum
-
 - As a user, I want to be able to play different forms of the game, such as 3-dimensional Tic-Tac-Toe
-- As a user, I want the game to have a global match-making system so that I can play against other users that are similarly-ranked 
+- As a user, I want the game to have a global match-making system so that I can play against other users that are similarly-ranked
+
+### Wireframes
+
+![Tic-Tac-Toe Wireframe](/assets/wireframe.png)
